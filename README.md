@@ -31,7 +31,8 @@ GitHub:
 Lead - Sophia and Ahmed
 Review - Everyone else
 
-Timeline 
+Timeline:
+
 Monday: October 12th deadline
 
 Monday: October 5th, 2026 - Confirm/Complete literature review (consensus, scopus) and create action items for Friday, October 9th
