@@ -9,6 +9,7 @@
 ### Uncertainty: Predictive factors at younger ages- our dataset only covers ages 60-90
 ### Project Decision: Revise: The overall project works but we have revised our research question to be more comprehensive and are using different data sets. 
 ### RQ Revised: Can MRI-based imaging (for Alzheimer’s, measuring brain volume) combined with specific risk factors help produce a likelihood scale ratio that accurately identifies individuals at higher risk of dementia in the future?
+### New Data Set: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/code 
 ### Team Plan: Project Timeline and Roles:
 
 Writing/Introduction and Motivation 
