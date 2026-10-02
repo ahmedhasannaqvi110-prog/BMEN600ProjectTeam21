@@ -35,7 +35,9 @@ Timeline
 Monday: October 12th deadline
 
 Monday: October 5th, 2026 - Confirm/Complete literature review (consensus, scopus) and create action items for Friday, October 9th
+
 Friday: October 9th, 2026 - Check-in
+
 Monday: October 12th, 2026 - Complete all parts for a final review/writing/editing
 
 
