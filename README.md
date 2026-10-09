@@ -2,11 +2,12 @@
 ## Team 21
 ## Team Members Present: Sayna Abedi,Qurat Ul Ain Khalid, Sophia Trombetta, Ahmed Naqvi
 
-## Candidate Problem 1
-### Alzheimer's Disease
-### RQ: Investigate overall risk of developing Alzheimer's Disease 
-### Dataset 1: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
-### Uncertainty: Predictive factors at younger ages- our dataset only covers ages 60-90
+
+### Alzheimer's Disease Future Cognitive Risk Scale
+### RQ: Can MRI-based imaging (for Alzheimer’s, measuring brain volume) combined with specific risk factors help produce a likelihood scale ratio that accurately identifies individuals at higher risk of dementia in the future?
+### Dataset: OASIS-3 Longitudinal Multimodal Neuroimaging, Clinical, and Cognitive Dataset for Normal Aging and Alzheimer’s Disease
+### Access Instructions: To access OASIS-3 you have to make an account with your email and request access for the data set. You must agree to the terms and fill out the data access form with all relevant information including your research aims. Within 2-3 business days a valid request will be approved.
+### Map of the Files: Graphs, Code 
 ### Project Decision: Revise: The overall project works but we have revised our research question to be more comprehensive and are using different data sets. 
 ### RQ Revised: Can MRI-based imaging (for Alzheimer’s, measuring brain volume) combined with specific risk factors help produce a likelihood scale ratio that accurately identifies individuals at higher risk of dementia in the future?
 ### New Data Set: https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers/code 
@@ -43,10 +44,5 @@ Friday: October 9th, 2026 - Check-in
 Monday: October 12th, 2026 - Complete all parts for a final review/writing/editing
 
 
-## Candidate Problem 2
-### Cardiovascular Health
-### RQ: The Effect of Sleep Quality on Cardiovascular Health
-### Dataset 2: https://sleepdata.org/datasets/shhs/files/datasets
-### Uncertainty: How to measure the quality of sleep 
 
 ### Current Decision: We are currently leaning toward sleep quality affecting cardiovascular health since it's relevant to us as students who often experience poor quality of sleep. 
