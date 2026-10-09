@@ -26,7 +26,7 @@ File 6: OASIS3_UDSb6_gds.csv (Depression score)
 ### Map of the Files: 
 The code file contains:
 
-  1.Future Cognitive Risk Scale: This file contains the HTML of our preliminary results for our data set analysis
+  1. Future Cognitive Risk Scale: This file contains the HTML of our preliminary results for our data set analysis
 
   2. oasis3_future_risk_colab(1): This file contains the entire code and outputs
   
