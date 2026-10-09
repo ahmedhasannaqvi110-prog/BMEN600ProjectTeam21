@@ -11,11 +11,17 @@ OASIS-3 Longitudinal Multimodal Neuroimaging, Clinical, and Cognitive Dataset fo
 The data set can accessed with this link: https://sites.wustl.edu/oasisbrains/
 To access OASIS-3 you have to make an account with your email and request access for the data set. You must agree to the terms and fill out the data access form with all relevant information including your research aims. Within 2-3 business days a valid request will be approved.
 The 6 main files we used were as follows:
-File 1: OASIS3_demographics.csv (Education, APOE ε4, sex, family history) 
+
+File 1: OASIS3_demographics.csv (Education, APOE ε4, sex, family history)
+
 File 2: OASIS3_UDSb4_cdr.csv (CDR ratings (who was normal and who later declined), age at each visit)
+
 File 3: OASIS3_Freesurfer_output.csv (Hippocampal volume and whole brain volume output)
+
 File 4: OASIS3_UDSa5_health_history.csv (Hypertension, depression, plus diabetes, cholesterol, stroke and smoking for screening)
+
 File 5: OASIS3_UDSb1_physical_eval.csv (Blood pressure, BMI and hearing (screening only))
+
 File 6: OASIS3_UDSb6_gds.csv (Depression score)
 ### Map of the Files: 
 1. oasis3_future_risk_colab(1): This file contains the entire code and outputs
