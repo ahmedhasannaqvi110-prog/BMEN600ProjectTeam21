@@ -16,7 +16,7 @@ File 1: OASIS3_demographics.csv (Education, APOE ε4, sex, family history)
 
 File 2: OASIS3_UDSb4_cdr.csv (CDR ratings (who was normal and who later declined), age at each visit)
 
-File 3: OASIS3_Freesurfer_output.csv (Hippocampal volume and whole brain volume output)
+File 3: OASIS3_Freesurfer_output.csv (Hippocampal volume and intracranial volume)
 
 File 4: OASIS3_UDSa5_health_history.csv (Hypertension, depression, plus diabetes, cholesterol, stroke and smoking for screening)
 
