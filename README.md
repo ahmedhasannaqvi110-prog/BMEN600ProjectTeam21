@@ -8,7 +8,7 @@
 ### Dataset:
 OASIS-3 Longitudinal Multimodal Neuroimaging, Clinical, and Cognitive Dataset for Normal Aging and Alzheimer’s Disease
 ### Access Instructions: 
-The data set can accessed with this link: ttps://sites.wustl.edu/oasisbrains/
+The data set can accessed with this link: https://sites.wustl.edu/oasisbrains/
 To access OASIS-3 you have to make an account with your email and request access for the data set. You must agree to the terms and fill out the data access form with all relevant information including your research aims. Within 2-3 business days a valid request will be approved.
 ### Map of the Files: 
 1. Google Notebook: This file contains the entire code and outputs
