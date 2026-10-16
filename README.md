@@ -35,7 +35,7 @@ The figure file contains:
   1. Important Figures.pdf: This file contains all relevant figures that validate our preliminary results
 
 ### Steps to run the current progress check: 
-To run the current progress check, access and download the HTML file in the future cognitive risk scale file and input relevant information to see how the cognitive risk score changes 
+To run the current progress check, access and download the HTML of the future cognitive risk scale in the coding file and input relevant information to see how the cognitive risk score changes 
 ### Software: 
 We used Google Collab to run the code, generate the figures and verify the validity of our output 
 
